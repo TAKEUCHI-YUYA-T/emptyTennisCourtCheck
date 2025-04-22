@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Deploy Cloud Function",
+      "type": "cloudcode.cloudfunctions",
+      "request": "launch",
+      "functionName": "sumida",
+      "region": "asia-northeast1",
+      "gen": "GEN_2",
+      "revision": "sumida-00006-rab",
+      "entryPoint": "main",
+      "runtime": "python39",
+      "testInput": ""
+    }
+  ]
+}
